@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios_Casa_P2.iml" filepath="$PROJECT_DIR$/Ejercicios_Casa_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6/S6.iml" filepath="$PROJECT_DIR$/S6/S6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7/S7.iml" filepath="$PROJECT_DIR$/S7/S7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8/S8.iml" filepath="$PROJECT_DIR$/S8/S8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8/archivos_sistema/archivos_sistema.iml" filepath="$PROJECT_DIR$/S8/archivos_sistema/archivos_sistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8/empleados_software/empleados_software.iml" filepath="$PROJECT_DIR$/S8/empleados_software/empleados_software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7/empresa_proyectos/empresa_proyectos.iml" filepath="$PROJECT_DIR$/S7/empresa_proyectos/empresa_proyectos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6/registro_errores/registro_errores.iml" filepath="$PROJECT_DIR$/S6/registro_errores/registro_errores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7/repositorio_commits/repositorio_commits.iml" filepath="$PROJECT_DIR$/S7/repositorio_commits/repositorio_commits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7/sprint_tareas/sprint_tareas.iml" filepath="$PROJECT_DIR$/S7/sprint_tareas/sprint_tareas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6/tareas_desarrollo/tareas_desarrollo.iml" filepath="$PROJECT_DIR$/S6/tareas_desarrollo/tareas_desarrollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8/tipos_notificacion/tipos_notificacion.iml" filepath="$PROJECT_DIR$/S8/tipos_notificacion/tipos_notificacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6/versiones_software/versiones_software.iml" filepath="$PROJECT_DIR$/S6/versiones_software/versiones_software.iml" />
+    </modules>
+  </component>
+</project>
